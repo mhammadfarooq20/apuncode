@@ -1,0 +1,16 @@
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.navbar{
+    background-color: lightblue;
+}
+a{
+    text-decoration: none;
+    background-color: aqua;
+}
+li{
+    list-style: none;
+    display: inline;
+}

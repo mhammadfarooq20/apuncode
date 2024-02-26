@@ -1,0 +1,133 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* *{
+  padding: 0;
+  margin: 0;
+  
+}
+#navbar{
+  height: 60px;
+  background-color: #0f1111;
+}
+button{
+  background-color: #f08804;
+}
+#logo{
+  color: #f08804;
+  font-size: 25px;
+}
+a{
+  margin-right: 200px;
+  text-decoration: none;
+  color: white;
+}
+input{
+  color: black;
+}
+.contentBox{
+  height: 100px;
+  width: 100px;
+  border: 2px solid black;
+  display: inline-block;
+}
+#content{
+  height: 520px;
+}
+footer{
+  background-color: #0f1111;
+  color: white;
+  text-align: center;
+}
+ */
+
+
+
+/* div {
+  height: 100px;
+  width: 100px;
+  margin: 25px;
+  padding: 25px;
+  display: inline-block;
+}
+
+#box1 {
+  background-color: rgba(0, 255, 0,0.5);
+}
+
+#box2 {
+  background-color: rgba(0, 255, 0,0.75);
+}
+
+#box3 {
+  background-color: rgba(0, 255, 0,1);
+} */
+
+
+
+
+
+
+/* .container {
+  height: 350px;
+  width: 120px;
+  background-color: black;
+  padding: 30px  30px 20px 40px;
+  display: grid;
+  border:  5px dashed red;
+}
+#cir1 {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  border-radius: 50%;
+  text-align: center;
+  color: white;
+  justify-content: center;
+}
+#cir2 {
+  height: 100px;
+  width: 100px;
+  background-color: yellow;
+  border-radius: 50%;
+  text-align: center;
+
+}
+#cir3 {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  border-radius: 50%;
+  text-align: center;
+} */
